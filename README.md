@@ -1,8 +1,10 @@
 2026/09/16 13:30:43
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: claudiosanchez@me.com, rsmoot924@aol.com
-At: 2026-09-16 13:31:40
-Id: EkY6IrBi
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: fastdann@aol.com, countyfireman4658@yahoo.com
+At: 2026-09-16 13:32:19
+Id: XUBz4ke4
